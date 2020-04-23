@@ -2,7 +2,7 @@
 
 ----------
 
-##**Descripción**##
+## **Descripción** ##
 La presenta documentación detalla los pasos para la creación de una extensión para VS Code. La extensión tendrá como funcionalidad insertar una nueva linea cada en función de un intervalo ingresaro por el usuario.
 
 ## **Requisitos** ##
