@@ -326,7 +326,7 @@ Finalmente se puede han podido observar los cambios que ha tenido la variable `t
 ![](./doc/debug-6.png)
 
 ### **Cuestionario** ###
-#####¿Qué elementos específicos de TypeScript identificas?#####
+##### ¿Qué elementos específicos de TypeScript identificas? #####
 
 > El uso del API de VS Code junto con todos sus componentes.
 >
