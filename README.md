@@ -9,7 +9,7 @@ La presenta documentación detalla los pasos para la creación de una extensión
 - [Visual Studio Code](https://code.visualstudio.com/download)</a>.
 - [NodeJS](https://nodejs.org/en/download/current/)
 - [Yeoman](https://yeoman.io/)
-- [Generator Code]
+- [Generator Code](https://www.npmjs.com/package/generator-code)
 
 Además de esto, se necesitará instalar los paquetes <a href="https://yeoman.io/">Yeoman</a> y <a href="https://www.npmjs.com/package/generator-code">Generator-Code</a>.
 
