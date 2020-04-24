@@ -3,7 +3,7 @@
 ----------
 
 ## **Descripción** ##
-La presenta documentación detalla los pasos para la creación de una extensión para VS Code. La extensión tendrá como funcionalidad insertar una nueva linea cada en función de un intervalo ingresaro por el usuario.
+La presenta documentación detalla los pasos para la creación de una extensión para VS Code. La extensión tendrá como funcionalidad insertar una nueva en función de un intervalo ingresado por el usuario.
 
 ## **Requisitos** ##
 - [Visual Studio Code](https://code.visualstudio.com/download)</a>.
@@ -25,7 +25,7 @@ Además de esto, se necesitará instalar los paquetes <a href="https://yeoman.io
 - Cuestionario
  
 ## **Instalación de requisitos** ##
-##### **Instalación de VS Code** #####
+### **Instalación de VS Code** ###
 Una vez descardado el instalador, de acuerdo, a la versión y arquitectura elegida (usuario o sistema), se procede a la instalación ejecutando el archivo descardado. En este caso el entorno sobre el que se desarrollará es Windows 10 [64bits].
 
 ![](./doc/vscode-install/vsc-descargar-1.png)
@@ -61,7 +61,7 @@ Finalmente da la opción para abrir el editor:
 
 ![](./doc/vscode-install/vsc-open.png)
 
-##### **Instalación de NodeJS** #####
+### **Instalación de NodeJS** ###
 
 De la misma manera que VS Code, se selecciona la versión y arquitectura, en este caso será para Windows.
 
@@ -101,7 +101,7 @@ En este caso es la version 12.16.1:
 
 ![](./doc/nodejs-install/njs-install-8.png)
 
-##### **Instalación de Yeoman y Generator Code** #####
+### **Instalación de Yeoman y Generator Code** ###
 Una vez instalado NodeJS el gestor de paquetes de NPM tambien se encontrará en el sistema. Para verificarlo, se puede ejecutar el comando:
 
 >`npm`
@@ -326,7 +326,7 @@ Finalmente se puede han podido observar los cambios que ha tenido la variable `t
 ![](./doc/debug-6.png)
 
 ### **Cuestionario** ###
-##### ¿Qué elementos específicos de TypeScript identificas? #####
+### ¿Qué elementos específicos de TypeScript identificas? ###
 
 > El uso del API de VS Code junto con todos sus componentes.
 >
